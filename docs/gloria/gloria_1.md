@@ -56,3 +56,5 @@ Con el santo espiritu en la gloria de Dios Padre
 F    C    Bb A7 Dm
 Amen Amen A- a- men
 ```
+
+[Volver al esquema -->](../index.md)

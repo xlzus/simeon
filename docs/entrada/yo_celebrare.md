@@ -22,6 +22,8 @@ porque has triunfado gloriosamente # (1)
 1.  :man_raising_hand: I'm a code annotation! I can contain `code`, **formatted
     text**, images, ... basically anything that can be written in Markdown.
 
+[Volver al esquema -->](../index.md)
+
 Sugerencias:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QjGn9ERXBUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
