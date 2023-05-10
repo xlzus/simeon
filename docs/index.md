@@ -2,7 +2,10 @@
 
 - Entrada: [Yo celebraré](entrada/yo_celebrare.md)
 - Gloria: [Gloria (#1)](gloria/gloria_1.md)
+- Aleluya: [Himno de paz](aleluya/himno_de_paz.md)
 - Ofertorio: [Te presentamos el vino y el pan](ofertorio/te_presentamos_el_vino_y_el_pan.md)
+- Santo: [Santo #1](santo/santo_1.md)
+- Cordero: [Cordero #1](cordero/cordero_1.md)
 
-Annotations:
-`mkdocs gh-deploy`
+  Annotations:
+  `mkdocs gh-deploy`

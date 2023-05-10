@@ -3,8 +3,19 @@ nav:
   - Home: index.md
   - Entrada:
       - yo celebraré: entrada/yo_celebrare.md
+      - ha vencido el cordero: entrada/ha_vencido_el_cordero.md
   - Gloria:
       - gloria (1): gloria/gloria_1.md
+  - Aleluya:
+      - himno de paz: aleluya/himno_de_paz.md
+  - Ofertorio:
+      - te presentamos el vino y el pan: ofertorio/te_presentamos_el_vino_y_el_pan.md
+  - Santo:
+      - santo (1): santo/santo_1.md
+  - Cordero:
+      - cordero (1): cordero/cordero_1.md
+  - Historial:
+      - esquema 30/04/2023: history/esquema-30-04-2023.md
 theme:
   name: material
   palette:
