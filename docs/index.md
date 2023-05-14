@@ -8,7 +8,7 @@
 - Consagracion: [Me consago a ti p29, c190](consagracion/me_consagro_a_ti.md)
 - Cordero: [Cordero #1](cordero/cordero_1.md)
 - Comunion: [Un mandamiento nuevo p71, c411](comunion/un_mandamiento_nuevo.md)
-- Salida: [Una entre todas p47, c304](salida/piensa_en_maria.md)
+- Salida: [Una entre todas p47, c304](salida/una_entre_todas.md)
 
   Annotations:
   `mkdocs gh-deploy`

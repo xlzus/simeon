@@ -2,7 +2,8 @@
 
 Capo 3
 
-```bash hl_lines=""
+```bash
+
   G           D      C
 Me consagro a ti Señor,
   G           D      C  D
@@ -14,7 +15,8 @@ Me consagro a ti Señor,
     C          D    G
 Me consagro a ti Señor,
     C          D    G
-Me consagro a ti Señor,
+Me consagro a ti Señor
+
 ```
 
 [Volver al esquema -->](../index.md)
