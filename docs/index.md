@@ -3,7 +3,7 @@
 - Entrada: [Alegre la mañana p77, c449](pascua/alegre_la_maniana.md)
 - Gloria: [Gloria (#2) p19, c105](gloria/gloria_2.md)
 - Aleluya: [Aleluya D](aleluya/aleluya_d.md)
-- Ofertorio: [Toma nuestros corazones p21, c135](ofertorio/toma_nuestros_corazones.md.md)
+- Ofertorio: [Toma nuestros corazones p21, c135](ofertorio/toma_nuestros_corazones.md)
 - Santo: [Santo #1 p27, c175](santo/santo_3.md)
 - Consagracion: [Me consago a ti p29, c190](consagracion/me_consagro_a_ti.md)
 - Cordero: [Cordero #1](cordero/cordero_1.md)
