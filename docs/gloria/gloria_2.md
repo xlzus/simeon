@@ -21,3 +21,5 @@ Tú sólo santo y Señor, tú Jesucristo
 D                  A                    E
 Con el Espíritu Santo, en la gloria de Dios
 ```
+
+[Volver al esquema -->](../index.md)

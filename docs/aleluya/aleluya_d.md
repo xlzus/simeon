@@ -11,3 +11,5 @@ Aaleluya, Aleluuu, Aleluyaaa
 G    D            A   D
 Aaaleluya, Aleluuuuuu ya
 ```
+
+[Volver al esquema -->](../index.md)

@@ -18,3 +18,5 @@ de la luz que nos llega
 resucitada y resucitadora.
 
 ```
+
+[Volver al esquema -->](../index.md)

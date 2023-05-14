@@ -1,6 +1,6 @@
 # Esquema De la semana
 
-- Entrada: [Yo celebraré p77, c449](pascua/alegre_la_maniana.md)
+- Entrada: [Alegre la mañana p77, c449](pascua/alegre_la_maniana.md)
 - Gloria: [Gloria (#2) p19, c105](gloria/gloria_2.md)
 - Aleluya: [Aleluya D](aleluya/aleluya_d.md)
 - Ofertorio: [Toma nuestros corazones p21, c135](ofertorio/toma_nuestros_corazones.md.md)

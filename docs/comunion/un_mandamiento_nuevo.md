@@ -40,3 +40,5 @@ Es cristiano aquel que sirve
       G            D
 con amor y en alegría
 ```
+
+[Volver al esquema -->](../index.md)
