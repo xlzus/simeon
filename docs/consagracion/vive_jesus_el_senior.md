@@ -1,6 +1,6 @@
 # Vive Jesus el Señor
 
-```bash hl_lines=""
+```bash
 D
 Vive Jesus el Señor
 

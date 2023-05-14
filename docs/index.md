@@ -1,11 +1,14 @@
 # Esquema De la semana
 
-- Entrada: [Yo celebraré](entrada/yo_celebrare.md)
-- Gloria: [Gloria (#1)](gloria/gloria_1.md)
-- Aleluya: [Himno de paz](aleluya/himno_de_paz.md)
-- Ofertorio: [Te presentamos el vino y el pan](ofertorio/te_presentamos_el_vino_y_el_pan.md)
-- Santo: [Santo #1](santo/santo_1.md)
+- Entrada: [Yo celebraré p77, c449](pascua/alegre_la_maniana.md)
+- Gloria: [Gloria (#2) p19, c105](gloria/gloria_2.md)
+- Aleluya: [Aleluya D](aleluya/aleluya_d.md)
+- Ofertorio: [Toma nuestros corazones p21, c135](ofertorio/toma_nuestros_corazones.md.md)
+- Santo: [Santo #1 p27, c175](santo/santo_3.md)
+- Consagracion: [Me consago a ti p29, c190](consagracion/me_consagro_a_ti.md)
 - Cordero: [Cordero #1](cordero/cordero_1.md)
+- Comunion: [Un mandamiento nuevo p71, c411](comunion/un_mandamiento_nuevo.md)
+- Salida: [Una entre todas p47, c304](salida/piensa_en_maria.md)
 
   Annotations:
   `mkdocs gh-deploy`

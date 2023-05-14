@@ -1,9 +1,11 @@
-site_name: Simeon
+site_name: Simeon Chorus
 nav:
   - Home: index.md
   - Entrada:
       - yo celebraré: entrada/yo_celebrare.md
       - ha vencido el cordero: entrada/ha_vencido_el_cordero.md
+  - Señor:
+      - señor (1): senior_ten_piedad/senior_1.md
   - Gloria:
       - gloria (1): gloria/gloria_1.md
   - Aleluya:
@@ -12,8 +14,15 @@ nav:
       - te presentamos el vino y el pan: ofertorio/te_presentamos_el_vino_y_el_pan.md
   - Santo:
       - santo (1): santo/santo_1.md
+  - Consagracion:
+      - jesus hijo de david: consagracion/jesus_hijo_de_david.md
+      - me consagro a ti: consagracion/me_consagro_a_ti.md
+      - vive jesus el señor: consagracion/vive_jesus_el_senior.md
   - Cordero:
       - cordero (1): cordero/cordero_1.md
+  - Comunión:
+      - el señor es mi pastor: comunion/el_senior_es_mi_pastor.md
+      - señor a quien iremos: comunion/senior_a_quien_iremos.md
   - Historial:
       - esquema 30/04/2023: history/esquema-30-04-2023.md
 theme:
