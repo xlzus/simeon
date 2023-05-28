@@ -1,6 +1,6 @@
 # Esquema De la semana
 
-- Entrada: [Alegre la mañana p77, c449](pentecostes/el_espiritu_del_senior.md)
+- Entrada: [El espíritu del señor](pentecostes/el_espiritu_del_senior.md)
 - Gloria: [Gloria (#2) p19, c105](gloria/gloria_2.md)
 - Aleluya: [Aleluya D](pentecostes/aleluya.md)
 - Ofertorio: [Vino y pan](ofertorio/vino_y_pan.md)
