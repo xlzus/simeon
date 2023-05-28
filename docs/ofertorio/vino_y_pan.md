@@ -1,6 +1,6 @@
 # Vino y pan
 
-```bash hl_lines=""
+```bash hl_lines="12-19 30-39"
 CAPO 3
 
 Em      Am
