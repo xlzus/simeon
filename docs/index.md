@@ -2,6 +2,7 @@
 
 - Entrada: [El espíritu del señor](pentecostes/el_espiritu_del_senior.md)
 - Gloria: [Gloria (#2) p19, c105](gloria/gloria_2.md)
+- Secuencia: [Secuencia de pentecostes](pentecostes/secuencia.md)
 - Aleluya: [Aleluya D](pentecostes/aleluya.md)
 - Ofertorio: [Vino y pan](ofertorio/vino_y_pan.md)
 - Santo: [Santo #1 p27, c175](santo/santo_3.md)
