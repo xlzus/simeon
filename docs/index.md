@@ -1,14 +1,15 @@
 # Esquema De la semana
 
-- Entrada: [Alegre la mañana p77, c449](pascua/alegre_la_maniana.md)
+- Entrada: [Alegre la mañana p77, c449](pentecostes/el_espiritu_del_senior.md)
 - Gloria: [Gloria (#2) p19, c105](gloria/gloria_2.md)
-- Aleluya: [Aleluya D](aleluya/aleluya_d.md)
-- Ofertorio: [Toma nuestros corazones p21, c135](ofertorio/toma_nuestros_corazones.md)
+- Aleluya: [Aleluya D](pentecostes/aleluya.md)
+- Ofertorio: [Vino y pan](ofertorio/vino_y_pan.md)
 - Santo: [Santo #1 p27, c175](santo/santo_3.md)
-- Consagracion: [Me consago a ti p29, c190](consagracion/me_consagro_a_ti.md)
-- Cordero: [Cordero #1](cordero/cordero_1.md)
-- Comunion: [Un mandamiento nuevo p71, c411](comunion/un_mandamiento_nuevo.md)
-- Salida: [Una entre todas p47, c304](salida/una_entre_todas.md)
+- Consagracion: [Ven santo Espíritu](pentecostes/ven_santo_espiritu.md)
+- Cordero: [Cordero #1](cordero/cordero_2.md)
+- Comunion: [Fuego del espíritu](pentecostes/fuego_del_espiritu.md)
+- PostComunion: [Ven espíritu de Dios](pentecostes/ven_espiritu_de_dios.md)
+- Salida: [En torno a maría](salida/en_torno_a_maria.md)
 
   Annotations:
   `mkdocs gh-deploy`
